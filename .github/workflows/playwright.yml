@@ -1,7 +1,7 @@
 name: Playwright Tests
 on:
   schedule:
-   - cron: '24 3 * * 1-5'
+   - cron: '59 3 * * 1-5'
   
 jobs:
   test:
